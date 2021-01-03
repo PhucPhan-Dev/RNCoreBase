@@ -1,4 +1,4 @@
-# B2B_APP_DALAHASFARM
+# React Native Base Core
 
 # You can read it in the
 
